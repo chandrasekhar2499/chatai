@@ -1,0 +1,23 @@
+{
+    "name": "openai-chat-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for OpenAI Chat application",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start"
+    },
+    "dependencies": {
+      "axios": "^0.24.0",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "5.0.0"
+    },
+    "devDependencies": {},
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
+  
